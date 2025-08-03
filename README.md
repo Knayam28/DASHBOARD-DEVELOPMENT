@@ -44,11 +44,7 @@ Analytical Power: This segment-level breakdown helps in inventory management, ma
 
 Key Analysis Steps and Methodology:
 
-Data Preparation:
 
-Cleaning: Raw sales data is first cleaned to handle missing values, incorrect format, and data type assignments.
-
-Transformation: Relevant fields, such as profit and sales by city, category, and region are aggregated. Calculations like total sales, count of negative-profit cities, and categorical segmentation are performed.
 
 Insight Extraction:
 
@@ -89,7 +85,6 @@ Analytical Reasoning: Ability to interpret visual information and convert it int
 
 Communication: Presenting complex insights in an accessible and visually engaging format for broad stakeholder audiences.
 
-Tool Proficiency: Demonstrating competence in using tools such as Tableau, Power BI, or Python-based visualization libraries (the image suggests a Tableau-like interface), critical for modern data analysis roles.
 
 #OUTPUT
 
