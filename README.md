@@ -93,4 +93,6 @@ Tool Proficiency: Demonstrating competence in using tools such as Tableau, Power
 
 #OUTPUT
 
+<img width="1385" height="746" alt="Image" src="https://github.com/user-attachments/assets/fc8ddc3b-fc43-4c9f-a167-4c1f2650e6f1" />
+
 
